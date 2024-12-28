@@ -1,6 +1,8 @@
 # Crime-Rate-Prediction-Project
 Crime Rate Prediction Project Code, Document And Video Tutorial
 
+![Crime ](https://github.com/user-attachments/assets/1b9655d1-c558-4567-89ba-cfd1224960f6)
+
 ## Youtube link: https://youtu.be/DUM0rrbo1AU?si=B3oNlsvepN5rUnS0
 
 ## Abstract
