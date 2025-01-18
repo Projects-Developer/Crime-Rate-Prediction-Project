@@ -1,4 +1,4 @@
-# Crime-Rate-Prediction-Project
+# Crime Rate Prediction Project
 Crime Rate Prediction Project Code, Document And Video Tutorial
 
 ![Crime Prediction (1)](https://github.com/user-attachments/assets/0c4a1375-e095-4d02-a698-71ee9324bdde)
